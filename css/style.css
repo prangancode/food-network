@@ -42,3 +42,9 @@ body{
 .aboutme-section .container-inner-div img{
     width: 50%;
 }
+.aboutme-section{
+    background-color: #FFF4EE;
+    background-image: url(../images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
