@@ -77,3 +77,15 @@ body {
   .rec-title {
     font-weight: bold;
   }
+
+  .social-section {
+    text-align: center;
+    box-shadow: 5px 5px 40px rgb(218, 213, 213);
+    margin: 40px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+  }
+  .social-inner-div {
+    width: 33.33%;
+    padding: 10px;
+  }
