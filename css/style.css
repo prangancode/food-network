@@ -89,3 +89,37 @@ body {
     width: 33.33%;
     padding: 10px;
   }
+
+  .contactus-inner-div {
+    width: 40%;
+  }
+  
+  .contact-middle-div {
+    width: 5%;
+  
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-bottom: 120px;
+    border-left: 10px solid;
+    border-image: linear-gradient(#f09e34, #e90f21);
+    border-image-slice: 1;
+  }
+  .contactus-inner-div input,
+  textarea {
+    font-size: 30px;
+    padding: 5px 10px;
+    margin: 10px;
+    border-radius: 25px;
+  }
+  .contact-us {
+    padding-top: 30px;
+    margin: 20px;
+    background-image: url(../images/shapes/contactus.png);
+    background-repeat: no-repeat;
+    background-color: #f1d0c6;
+    margin-top: 50px;
+  }
+  .contact-us h2 {
+    text-align: center;
+    padding-bottom: 20px;
+  }
