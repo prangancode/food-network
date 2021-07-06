@@ -123,3 +123,13 @@ body {
     text-align: center;
     padding-bottom: 20px;
   }
+
+  .footer {
+    color: wheat;
+    text-align: center;
+    padding: 50px;
+    background-color: black;
+  }
+  .grey-text {
+    color: #5b5b5b;
+  }
